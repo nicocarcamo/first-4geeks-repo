@@ -12,4 +12,8 @@ Preparar archivos
 
 
 Guardar archivos en el repositorio local
-    git commit -m "mi primer mensaje"
+    git commit -m "descripción de los cambios hechos al proyecto"
+
+
+Enviar proyecto al repo remoto
+    git push origin master/main
